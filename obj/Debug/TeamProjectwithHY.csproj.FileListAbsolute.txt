@@ -1,0 +1,9 @@
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\bin\Debug\TeamProjectwithHY.exe
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\bin\Debug\TeamProjectwithHY.pdb
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.csprojResolveAssemblyReference.cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.Form1.resources
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.Properties.Resources.resources
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.csproj.GenerateResource.Cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.csproj.CoreCompileInputs.cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.exe
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Debug\TeamProjectwithHY.pdb

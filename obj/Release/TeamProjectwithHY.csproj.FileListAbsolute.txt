@@ -1,0 +1,18 @@
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\bin\Release\TeamProjectwithHY.exe
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\bin\Release\TeamProjectwithHY.pdb
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.csprojResolveAssemblyReference.cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.Form1.resources
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.Properties.Resources.resources
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.csproj.GenerateResource.Cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.csproj.CoreCompileInputs.cache
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.exe
+C:\Users\evga7\documents\visual studio 2017\Projects\TeamProjectwithHY\obj\Release\TeamProjectwithHY.pdb
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\bin\Release\TeamProjectwithHY.exe
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\bin\Release\TeamProjectwithHY.pdb
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.csprojAssemblyReference.cache
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.Form1.resources
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.Properties.Resources.resources
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.csproj.GenerateResource.cache
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.csproj.CoreCompileInputs.cache
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.exe
+C:\Users\evga7\Downloads\C# 3조 (2)\TeamProjectwithHY (8)\obj\Release\TeamProjectwithHY.pdb
